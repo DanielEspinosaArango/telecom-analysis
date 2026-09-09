@@ -28,7 +28,7 @@ El análisis incluye **limpieza de datos, segmentación de clientes, análisis d
 
 **Opción 1 - Click directo:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DanielEspinosaArango/telecom-analysis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DanielEspinosaArango/telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel_(1).ipynb)
 
 **Opción 2 - Manual:**
 
