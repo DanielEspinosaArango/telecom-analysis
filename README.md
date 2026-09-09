@@ -32,7 +32,7 @@ El análisis incluye **limpieza de datos, segmentación de clientes, análisis d
 
 **Opción 2 - Manual:**
 
-1. Ve a tu repositorio en GitHub
+1. Ve al repositorio en GitHub
 2. Abre el archivo `S7_Version-Estudiante-Project-ConnectaTel_(1).ipynb`
 3. Haz clic en el botón **"Open in Colab"** (parte superior del notebook)
 
