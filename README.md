@@ -11,7 +11,7 @@ El análisis incluye **limpieza de datos, segmentación de clientes, análisis d
 ```
 📁 connectatel-analysis/
 ├── 📄 README.md                          ← Estás aquí
-├── 📓 S7_Version-Estudiante-Project-ConnectaTel.ipynb
+├── 📓 S7_Version-Estudiante-Project-ConnectaTel_(1).ipynb
 │   → Notebook principal con análisis completo (Paso 1-7)
 │   → Limpieza, EDA, segmentación y conclusiones ejecutivas
 ├── 📊 data/
