@@ -1,4 +1,4 @@
-# ConnectaTel Customer Analysis – Sprint 7
+# ConnectaTel Customer Analysis
 
 Este repositorio contiene el análisis de clientes y patrones de uso realizado en el Sprint 7 para ConnectaTel, una empresa de telecomunicaciones en Latinoamérica.
 
